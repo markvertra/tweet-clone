@@ -16,8 +16,12 @@
 
 .profile-pic {
   float: left;
-  margin-right: 10px;
-  height: 70px;
+  margin-right: 25px;
+  height: 65px;
+}
+
+.top-text {
+  padding-top: 5px;
 }
 
 .top-img {
@@ -25,13 +29,16 @@
 }
 
 .user-name {
-  font-size: 22px;
+  font-size: 25px;
+  font-weight: bold;
   color: rgb(0, 0, 0);
+  margin-bottom: 5px;
 }
 
 .user-account {
   color: rgb(104, 109, 129);
   font-size: 20px;
+  margin-top: 5px;
 }
 
 .tweet-text {
@@ -53,7 +60,7 @@
   border-width: 2px;
   border-radius: 5px;
   float: right;
-  margin-top: 15px;
+  margin-top: 10px;
   padding: 10px 15px 10px 15px;
   color: rgb(85, 172, 238);
 }
