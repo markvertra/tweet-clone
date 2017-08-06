@@ -29,10 +29,15 @@
 
 .tweet-text {
   color: rgb(0, 0, 0);
+  font-size: 22px;
+  margin-bottom: 10px;
 }
 
 .time-text {
   color: rgb(101, 116, 127);
+  margin-bottom: 15px;
+  margin-top: 10px;
+  font-size: 20px;
 }
 
 .follow-button {
@@ -58,9 +63,9 @@
 }
 
 .bottom-img {
-  height: 20px;
+  height: 18px;
 }
 
 .bottom-button {
-  margin-left: 35px;
+  margin-left: 20px;
 }
