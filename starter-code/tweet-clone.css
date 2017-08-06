@@ -14,6 +14,27 @@
   padding: 20px;
 }
 
+.profile-pic {
+  float: left;
+  margin-right: 10px;
+}
+
+.user-name {
+  color: rgb(0, 0, 0);
+}
+
+.user-account {
+  color: rgb(104, 109, 129);
+}
+
+.tweet-text {
+  color: rgb(0, 0, 0);
+}
+
+.time-text {
+  color: rgb(101, 116, 127);
+}
+
 .follow-button {
   border-color: rgb(85, 172, 238);
   border-style: solid;
