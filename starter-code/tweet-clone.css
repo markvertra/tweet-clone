@@ -1,4 +1,14 @@
 .whole-twitter {
   background-color: rgb(244, 248, 249);
   font-family: helvetica;
+  padding: 5px 10px 5px 10px;
+  width: 600px;
+}
+
+.whole-tweet {
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(225, 232, 237);
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 20px;
 }
